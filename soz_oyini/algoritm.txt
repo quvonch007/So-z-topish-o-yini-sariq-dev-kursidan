@@ -1,0 +1,8 @@
+1 start
+2kompyuter son o'ylaydi
+3 keyin tasdiqlash 
+4 undan keyin so'raydi va son qabul qiladi o'ziga 
+5 kiritilgan javob to'gri bo'lsa to'g'ri bo'lmasa katta yoki kichikligini aytadi
+6keyin biz son o'ylashimizni so'rab tahmin qiladi agar biz o'ylagan son bo'lsa t deymiz agar katta bo'lsa + kichik bo'lsa - chiqadi 
+    topgandan keyin esa hisobni chiqarib kim yutganini aytadi 
+7 yana o'ynash o'ynamaslikni so'raydi
